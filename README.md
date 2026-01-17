@@ -11,7 +11,7 @@ and work closely with product and business stakeholders.
 
 ## 🧠 What I work on
 
-- **AI product engineering**: LLM-based systems (RAG), document automation, STT/TTS interfaces  
+- **AI product engineering**: LLM-based systems, document automation, STT/TTS interfaces  
 - **Full-stack development**: React / Next.js, Python (FastAPI, Django), REST APIs  
 - **Production systems**: authentication & authorization (RBAC, RLS), reliability, cloud deployment  
 - **Applied AI**: building AI features that augment users rather than remain research demos  
