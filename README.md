@@ -1,6 +1,6 @@
 # Hi, I’m Ondrej 👋
 
-Software Engineer (AI-Focused) with a strong background in building and scaling
+Software and AI Engineer with a strong background in building and scaling
 AI-powered products end-to-end — from frontend and backend systems to applied AI workflows
 running in production.
 
@@ -25,7 +25,7 @@ and work closely with product and business stakeholders.
 - Designed full-stack architectures using React/Next.js, Python, PostgreSQL, Docker  
 - Implemented LLM-based RAG pipelines, STT/TTS workflows, and secure client platforms  
 
-**Founder & CTO — CalistFitness (B2B)**  
+**Founder & CTO — AmplifyWare (B2B)**  
 - Building an early-stage coaching platform for professional fitness coaches  
 - React Native app with Python/Django backend and Supabase (PostgreSQL)  
 - Developing AI-assisted features for video-based exercise feedback and nutrition workflows  
