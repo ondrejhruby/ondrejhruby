@@ -1,24 +1,29 @@
 # Hi, I’m Ondrej 👋
 
-Software and AI Engineer with a strong background in building and scaling
-AI-powered products end-to-end — from frontend and backend systems to applied AI workflows
-running in production.
+**Software & AI Engineer** focused on building production AI applications and full-stack software products.
 
-I enjoy ownership-heavy roles where I can design systems holistically, ship to real users,
-and work closely with product and business stakeholders.
+I enjoy taking products from initial ideas to production — owning architecture, backend and frontend development, cloud infrastructure, and AI integration. My experience spans startups, scale-ups, and enterprise projects, with a strong focus on practical AI engineering and product ownership.
+
 
 ---
 
 ## 🧠 What I work on
 
-- **AI product engineering**: LLM-based systems, document automation, STT/TTS interfaces  
-- **Full-stack development**: React / Next.js, Python (FastAPI, Django), REST APIs  
-- **Production systems**: authentication & authorization (RBAC, RLS), reliability, cloud deployment  
+- **Generative AI:** LLM applications, RAG, AI assistants, agents, and workflow automation
+- - **AI pipelines:** Document processing, VLM/OCR, STT/TTS, embeddings, and evaluation
+- **Backend & Full-Stack:** Python (FastAPI, Django), React, Next.js, REST APIs, React Native
+- **Production Engineering:** System architecture, enterprise integrations, authentication  & authorization (RBAC, RLS), cloud infrastructure and deployment
 - **Applied AI**: building AI features that augment users rather than remain research demos  
 
 ---
 
 ## 🏗️ Recent experience
+
+**GenAI Engineer — BigHub**
+- Developed an AI-powered omnichannel contact center platform for the insurance industry
+- Built Python/FastAPI backend services, React interfaces, and enterprise system integrations
+- Developed a real-time RAG assistant using pgvector and indexed knowledge sources to provide contextual suggestions with source references
+- Worked with Azure AI services, authentication, and enterprise infrastructure
 
 **Founding Engineer / Lead Software & AI Engineer — KlartextAI**  
 - Built and shipped multiple production AI systems for external clients  
@@ -34,11 +39,11 @@ and work closely with product and business stakeholders.
 
 ## 🧰 Tech stack
 
-**Languages:** Python, JavaScript / TypeScript  
-**Frontend:** React, Next.js, React Native  
-**Backend:** FastAPI, Django, Node.js  
-**AI:** LLMs, RAG, embeddings, prompt engineering, applied computer vision  
-**Data & Infra:** PostgreSQL, Supabase, Docker, CI/CD, DigitalOcean, Vercel  
+**Languages:**  Python · JavaScript · TypeScript
+**Backend:** FastAPI · Django · Node.js · REST APIs
+**Frontend:** React · Next.js · React Native
+**AI:** LLMs · RAG · Vector Databases · pgvector · VLM/OCR · STT/TTS · AI Evaluation  · Prompt Engineering · Applied Computer Vision  
+**Data & Infra:** PostgreSQL · Supabase · Docker · CI/CD · Azure · DigitalOcean · Vercel · Git
 
 ---
 
@@ -58,5 +63,4 @@ and work closely with product and business stakeholders.
 - Portfolio: https://ondrejhruby.github.io  
 - LinkedIn: https://www.linkedin.com/in/ondrej-hrubyse/  
 
-Open to **Software Engineer / Full-Stack / AI-focused roles**, especially with strong
-ownership and product impact.
+Open to interesting opportunities in **AI/GenAI Engineering, Python Backend, Full-Stack, and Product Engineering**, preferably remote and with strong technical ownership.
